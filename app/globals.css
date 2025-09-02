@@ -1,0 +1,99 @@
+.list-bg {
+  background: rgb(249, 250, 255);
+  padding: 10px;
+}
+
+.list-item {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 5px;
+  box-shadow: rgb(224, 224, 224) 0px 2px 4px 0px;
+}
+
+.list-item h4 {
+  font-size: 20px;
+  font-weight: 800;
+  margin: 0;
+}
+
+.list-item p {
+  color: grey;
+  margin: 5px 0px;
+}
+
+/*스타일추가*/
+.p-20 {
+  padding: 20px;
+}
+
+input {
+  box-sizing: border-box;
+  padding: 10px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  background: lightgray;
+  border: none;
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.list-item {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 5px;
+  box-shadow: rgb(224, 224, 224) 0px 2px 4px 0px;
+  opacity: 1;
+  transition: all 0.4s;
+}
+
+.navbar {
+  height: 50px;
+  background-color: #333;
+  box-sizing: border-box;
+}
+
+.navbar .logo {
+  width: 120px;
+}
+
+.navbar p {
+  float: left;
+}
+
+.navbar .logo a {
+  color: #fff;
+  height: 50px;
+  line-height: 100%;
+  font-weight: 900;
+  padding-left: 20px;
+  font-size: 25px;
+}
+
+.navbar p a {
+  color: #fff;
+  height: 50px;
+  line-height: 100%;
+  font-weight: 400;
+  padding: 0px 20px;
+  font-size: 16px;
+}
+
+.navbar button {
+  border-radius: 6px;
+  position: relative;
+  top: 10px;
+  padding: 5px 10px;
+}
+
+.registerForm {
+  width: 200px;
+}
